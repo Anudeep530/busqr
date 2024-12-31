@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+    <item android:title="Home"
+        android:id="@+id/Home"
+        android:icon="@drawable/home"/>
+
+    <item android:title="attendance"
+        android:id="@+id/attendance"
+        android:icon="@drawable/attend"/>
+
+    <item android:title="notifications"
+        android:id="@+id/notifications"
+        android:icon="@drawable/noti"/>
+
+    <item android:title="Receipts"
+        android:id="@+id/receipts"
+        android:icon="@drawable/receipt"/>
+
+    </group>
+
+
+</menu>
